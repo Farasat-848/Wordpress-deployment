@@ -1,0 +1,4 @@
+.terraform/
+terraform.tfstate
+*.exe
+terraform.tfstate.backup
